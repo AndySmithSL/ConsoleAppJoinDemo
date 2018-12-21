@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ConsoleAppJoinDemo/bin/Debug
+/ConsoleAppJoinDemo/obj/Debug
+/.vs/ConsoleAppJoinDemo/v15/Server/sqlite3
+/.vs/ConsoleAppJoinDemo/v15
